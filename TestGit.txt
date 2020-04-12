@@ -2,6 +2,10 @@ I am testing GitHub integration with VS Code.
 
 TestDev change
 
+A change because I feel like it.
+
 Another change that I will attempt to push via the command line
 
 I made another edit to this file, why? Who knows. Wheeeeeee.....
+
+I guess I'm changing this file again. What a day.
